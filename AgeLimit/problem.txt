@@ -1,7 +1,7 @@
 Problem
 Ram wants to appear in a competitive exam. To take the exam, there are following requirements:
 Minimum age limit is X (i.e. Age should be greater than or equal to X).
-Age should be strictly less than Y.
+Max Age should be strictly less than Y.
 Ram's current Age is A. Find whether he is currently eligible to take the exam or not.
 
 Input Format
