@@ -1,11 +1,13 @@
 Sonu appeared for a placement test.
-There is a problem worth X points. Sonu finds out that the problem has exactly10 test cases. It is known that each test case is worth the same number of points.
+There is a problem worth X points. Sonu finds out that the problem has exactly 10 test cases. 
+It is known that each test case is worth the same number of points.
 Sonu passesN test cases among them. Determine the score Sonu will get. 
 NOTE: See sample explanation for more clarity.
 
 Input Format
 First line will contain T, number of test cases. Then the test cases follow.
-Each test case contains of a single line of input, two integers X and N, the total points for the problem and the number of test cases which pass for Sonu's solution.
+Each test case contains of a single line of input, two integers X and N, the total points 
+for the problem and the number of test cases which pass for Sonu's solution.
 
 Output Format
 For each test case, output the points scored by Sonu.
@@ -18,7 +20,12 @@ Input                                                 Output
 130 4                                                   0
 70 0
 Explanation:
-Test Case 1: The problem is worth 10 points and since there are 10 test cases, each test case is worth 1 point. Since Sonu passes 3 test cases, his score will be 1⋅3=3 points.
-Test Case2: The problem is worth 100 points and since there are 10 test cases, each test case is worth 10 points. Since Sonu passes all the 10⋅10=100 points.
-Test Case 3: The problem is worth 130 points and since there are 10 test cases, each test case is worth 13 points. Since Sonu passes 4 test cases, his score will be 13⋅4=52 points.
-Test Case 4: The problem is worth 70 points and since there are 10 test cases, each test case is worth 10 test cases, each test case is worth 7 points. Since Sonu passes 0 test cases, his score will be 7⋅0=0 points. 
+Test Case 1: The problem is worth 10 points and since there are 10 test cases, each test case is 
+worth 1 point. Since Sonu passes 3 test cases, his score will be 1⋅3=3 points.
+Test Case2: The problem is worth 100 points and since there are 10 test cases, each test case is 
+worth 10 points. Since Sonu passes all the 10⋅10=100 points.
+Test Case 3: The problem is worth 130 points and since there are 10 test cases, each test case is 
+worth 13 points. Since Sonu passes 4 test cases, his score will be 13⋅4=52 points.
+Test Case 4: The problem is worth 70 points and since there are 10 test cases, each test case is 
+worth 10 test cases, each test case is worth 7 points. Since Sonu passes 0 test cases, his score 
+will be 7⋅0=0 points. 
